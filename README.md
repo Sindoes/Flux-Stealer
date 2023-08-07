@@ -18,8 +18,8 @@ Console Window to Window Based (hide the console)
 click convert to .py to .exe and
 Thats it
 Errors:
-1. Pip is not recognized error
-    Make Sure when installing python use add to path option down
+Pip is not recognized error
+Make Sure when installing python use add to path option down
 copied from How to make client.txt
 
 Do not use it for malicous purposes if u do its none of my business
