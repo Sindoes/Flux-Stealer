@@ -32,4 +32,4 @@ copied from How to make client.txt
 
 Do not use it for malicous purposes if u do its none of my business
 # Future Updates
-still havent thought
+Auto Port Forward
