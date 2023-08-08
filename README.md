@@ -8,7 +8,7 @@ base64
 robloxpy
 ***And Port Forwarding Needed***
 ## How To Make Client to .exe
-Go to client.pyw or main.pyw change lol.connect and change your ip and stuff
+Go to client.py or main.py change lol.connect and change your ip and stuff
 
 there are alot of options
 
